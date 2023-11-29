@@ -1,0 +1,5 @@
+Basic ctr app with three functions:
+1. A pop-up to set the initial value
+2. Modify ctr: 3 buttons to add, subtract and set the ctr to the input value
+3. A useEffect that counts the number of renders(changes to ctr)
+4. Tells you what the last operation you did was

@@ -1,0 +1,23 @@
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    width:60vw;
+    height: 50vh;
+    top: 25%;
+    left:20%;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+#form-div{
+    display: flex;
+    width:99%;
+    justify-content: space-between;
+}
+button#submission-button{
+    font-size: large;
+}
